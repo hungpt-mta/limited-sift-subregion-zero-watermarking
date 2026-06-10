@@ -78,6 +78,8 @@ All images are resized to 512 x 512 by the experiment scripts. The watermark is 
 
 The included datasets are provided only for academic reproducibility of the reported experiments. Please also respect the licenses and terms of the original image sources.
 
+The natural-image subset of Dataset 1 is stored as data/dataset1_natural_600/dataset1_natural_600.zip. Please extract this file before running the large-scale Dataset 1 experiments. After extraction, the individual image files should be located directly in data/dataset1_natural_600/.
+
 ## Citation
 
 If this repository is useful for your research, please cite the associated paper.
