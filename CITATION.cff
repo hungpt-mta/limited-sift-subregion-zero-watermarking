@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Limited Strong-Keypoint Multi-Subregion Zero-Watermarking
+title: Robust Zero-Watermarking via Limited Strong-Keypoint Matching and DWT-DCT Sub-Region Features
 authors:
   - family-names: Pham
     given-names: Thai Hung
