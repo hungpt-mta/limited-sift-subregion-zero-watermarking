@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Limited Strong-Keypoint Multi-Subregion Zero-Watermarking
+authors:
+  - family-names: Pham
+    given-names: Thai Hung
+  - family-names: Ta
+    given-names: Minh Thanh
+message: "If you use this software, please cite the associated paper."
+type: software
+version: 1.0.0
+license: MIT
